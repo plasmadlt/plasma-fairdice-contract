@@ -1,1 +1,0 @@
-# plasma-fairdice-contract
